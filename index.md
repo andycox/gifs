@@ -2,8 +2,9 @@
 layout: home
 ---
 
-# Dem gifs tho
+# Gifs
 
-Oh Hai! You've found my Gif collection.
+My Gifs for the funk of it
 
-Fork me on GitHub at [jglovier/gifs](https://github.com/jglovier/gifs)
+Build your own at [github](https://github.com/andycox/gifs).
+Respect to [jglovier](https://github.com/jglovier/gifs).
