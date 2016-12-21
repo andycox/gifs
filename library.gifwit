@@ -4,14 +4,13 @@
 {
   "version":1,
   "images": [
-    {% for image in site.data.static_files %}
-    {% assign parts =  image.path | split:"/" %}
+  {% assign delimiter = ' ' %}
+  {% for image in site.data.static_files %}
     {% assign path = image.path | uri_escape %}
-    {% assign url = "http://gifs.joelglovier.com/" | append: path %}
     {
-      "url": "{{ url | json }}", 
-      "keywords": "{{ parts.first | replace:'-', ' ' }} {{ parts.last | replace:image.extname, '' | replace: '-', ' ' | replace: '_', ' ' }}"
+      "url": "{{ site.github.url | append: "/" | append: path | json }}",
+      "keywords": "{{ image.tags | join: ' ' | json }}"
     }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
+  {% endfor %}
   ]
 }
