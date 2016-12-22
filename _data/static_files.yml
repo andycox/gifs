@@ -157,6 +157,70 @@
   - gif
   - lebowski
   - what
+- title: bill-clinton-excited.gif
+  category: bill-clinton
+  path: bill-clinton/bill-clinton-excited.gif
+  modified_time: 1464261962
+  tags:
+  - bill
+  - clinton
+  - excited
+  - gif
+- title: bill-clinton-eyeroll.gif
+  category: bill-clinton
+  path: bill-clinton/bill-clinton-eyeroll.gif
+  modified_time: 1464262757
+  tags:
+  - bill
+  - clinton
+  - eyeroll
+  - gif
+- title: bill-clinton-lol.gif
+  category: bill-clinton
+  path: bill-clinton/bill-clinton-lol.gif
+  modified_time: 1464261274
+  tags:
+  - bill
+  - clinton
+  - gif
+  - lol
+- title: bill-clinton-ponder.gif
+  category: bill-clinton
+  path: bill-clinton/bill-clinton-ponder.gif
+  modified_time: 1464261469
+  tags:
+  - bill
+  - clinton
+  - gif
+  - ponder
+- title: bill-clinton-pumped.gif
+  category: bill-clinton
+  path: bill-clinton/bill-clinton-pumped.gif
+  modified_time: 1464262592
+  tags:
+  - bill
+  - clinton
+  - gif
+  - pumped
+- title: bill-clinton-raise.gif
+  category: bill-clinton
+  path: bill-clinton/bill-clinton-raise.gif
+  modified_time: 1464261964
+  tags:
+  - bill
+  - clinton
+  - gif
+  - raise
+- title: bill-clinton-thumbs-up.gif
+  category: bill-clinton
+  path: bill-clinton/bill-clinton-thumbs-up.gif
+  modified_time: 1464261136
+  tags:
+  - bill
+  - clinton
+  - gif
+  - thumbs
+  - up
 - title: atomic_bomb.gif
   category: boom
   path: boom/atomic_bomb.gif
@@ -2110,6 +2174,16 @@
   - hand
   - handwave
   - wave
+- title: forrest-gump-wave.gif
+  category: hand-wave
+  path: hand-wave/forrest-gump-wave.gif
+  modified_time: 1482352946
+  tags:
+  - forrest
+  - gif
+  - gump
+  - hand
+  - wave
 - title: kelly-kapour-w.gif
   category: hand-wave
   path: hand-wave/kelly-kapour-w.gif
@@ -3288,6 +3362,16 @@
   - it
   - nailed
   - phone
+- title: pretty-pretty-pretty-good.gif
+  category: nailed-it
+  path: nailed-it/pretty-pretty-pretty-good.gif
+  modified_time: 1453341075
+  tags:
+  - gif
+  - good
+  - it
+  - nailed
+  - pretty
 - title: napoleon.gif
   category: napoleon
   path: napoleon/napoleon.gif
@@ -3540,6 +3624,98 @@
   - popcorn
   - stare
   - troy
+- title: black-sweat.gif
+  category: prince
+  path: prince/black-sweat.gif
+  modified_time: 1482414674
+  tags:
+  - black
+  - gif
+  - prince
+  - sweat
+- title: prince-bow.gif
+  category: prince
+  path: prince/prince-bow.gif
+  modified_time: 1482415015
+  tags:
+  - bow
+  - gif
+  - prince
+- title: prince-bye.gif
+  category: prince
+  path: prince/prince-bye.gif
+  modified_time: 1482415009
+  tags:
+  - bye
+  - gif
+  - prince
+- title: prince-grammy-shade.gif
+  category: prince
+  path: prince/prince-grammy-shade.gif
+  modified_time: 1482414784
+  tags:
+  - gif
+  - grammy
+  - prince
+  - shade
+- title: prince-kiss.gif
+  category: prince
+  path: prince/prince-kiss.gif
+  modified_time: 1482414756
+  tags:
+  - gif
+  - kiss
+  - prince
+- title: prince-no.gif
+  category: prince
+  path: prince/prince-no.gif
+  modified_time: 1482415004
+  tags:
+  - gif
+  - 'no'
+  - prince
+- title: prince-played.gif
+  category: prince
+  path: prince/prince-played.gif
+  modified_time: 1482414727
+  tags:
+  - gif
+  - played
+  - prince
+- title: prince-sunglasses.gif
+  category: prince
+  path: prince/prince-sunglasses.gif
+  modified_time: 1482414983
+  tags:
+  - gif
+  - prince
+  - sunglasses
+- title: prince-super-bowl.gif
+  category: prince
+  path: prince/prince-super-bowl.gif
+  modified_time: 1482414793
+  tags:
+  - bowl
+  - gif
+  - prince
+  - super
+- title: prince-tea-bw.gif
+  category: prince
+  path: prince/prince-tea-bw.gif
+  modified_time: 1482414775
+  tags:
+  - bw
+  - gif
+  - prince
+  - tea
+- title: prince-tea.gif
+  category: prince
+  path: prince/prince-tea.gif
+  modified_time: 1482414763
+  tags:
+  - gif
+  - prince
+  - tea
 - title: gandalf-smile.gif
   category: proud
   path: proud/gandalf-smile.gif
